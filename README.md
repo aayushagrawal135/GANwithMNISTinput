@@ -11,10 +11,6 @@ Implementing GAN on MNIST- digit dataset.
 Install tensorflow, numpy, matplotlib
 [Tensorflow basics](https://jacobbuckman.com/post/tensorflow-the-confusing-parts-1/)
 
-```
-Give examples
-```
-
 ### Installing
 
 [Installing tensorflow](https://www.tensorflow.org/install/install_linux)
